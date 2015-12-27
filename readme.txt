@@ -1,0 +1,1 @@
+Ceci est un fichier texte qui accompagne les deux autres fichiers requis pour réaliser le TP concernant GIT & GITHUB sur OpenClassRooms.
