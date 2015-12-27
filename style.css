@@ -1,0 +1,39 @@
+*
+{
+	background-color: black;
+	color:#FFF;
+}
+
+header, section, footer
+{
+	width:980px;
+	margin:auto;
+}
+
+header h1
+{
+	text-align: center;
+}
+
+nav
+{
+	float:left;
+	width:200px;
+}
+
+article
+{
+	float:right;
+	width:775px;
+}
+
+footer p 
+{
+	text-align: center;
+	font-style: italic;
+}
+
+.clearfix
+{
+	clear:both;
+}
