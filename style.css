@@ -1,13 +1,6 @@
-*
+body
 {
-	background-color: black;
-	color:#FFF;
-}
-
-header, section, footer
-{
-	width:980px;
-	margin:auto;
+	padding-top: 100px;
 }
 
 header h1
@@ -18,13 +11,22 @@ header h1
 nav
 {
 	float:left;
-	width:200px;
 }
+
+nav>div>div>ul>li a
+{
+	text-decoration: none;
+	color: gray;
+	padding-top: 15px;
+	padding-left: 10px;
+	padding-right: 10px;
+	font-size: 15px;
+}
+
 
 article
 {
 	float:right;
-	width:775px;
 }
 
 footer p 
